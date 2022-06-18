@@ -1,7 +1,10 @@
-# The Go Programming Language
+# The GOTH Programming Language
 
-Go is an open source programming language that makes it easy to build simple,
-reliable, and efficient software.
+GOTH is an open source programming language that makes it easy to build simple,
+reliable, and efficient software. Think of it as the same as Go, but with less
+dogma about remaining backwards-compatible. 
+
+GOTH is a work in progress. If you see room for improvement, feel free to do a pull request or make a comment. 
 
 ![Gopher image](https://golang.org/doc/gopher/fiveyears.jpg)
 *Gopher image by [Renee French][rf], licensed under [Creative Commons 3.0 Attributions license][cc3-by].*
